@@ -1,0 +1,6 @@
+framework module Pods_GoogleCloudVisionOCRExample {
+  umbrella header "Pods-GoogleCloudVisionOCRExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
